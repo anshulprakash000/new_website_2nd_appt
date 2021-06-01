@@ -1,0 +1,61 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+
+
+}
+h1{
+    margin: 40%,auto,0,auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.2rem;
+    color: #66BFBF;
+}
+.top-container{
+    background-color:#E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    
+
+
+}
+h2{
+    font-size: 1.3em; color: #66BFBF; 
+}
+h3{
+    font-size: 1.3em; color: #66BFBF; 
+}
+
+
+.middle-container{
+    
+
+}
+.bottom-container{
+
+  
+}
+.dev{
+    text-decoration: underline;
+}
+
+.topcloud{
+    position: absolute;
+    left: 1000px;
+    top: 80px;
+
+}
+.bottomcloud{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+profile{
+    width:80px;
+    height:80px;
+    border-radius: 50%;
+    object-fit: cover;  
+    
+}
